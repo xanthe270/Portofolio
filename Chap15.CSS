@@ -1,0 +1,17 @@
+body {
+    font-family: "Comic Sans MS";
+}
+
+#buttonBox {
+    margin-top: 30px;
+}
+
+#thingToDo {
+    margin-top: 20px;
+    background-color: #e312a1;
+}
+
+#quoteOfMonth {
+    margin-top: 40px auto;
+    background-color: #32a852;
+}
